@@ -1,6 +1,5 @@
 ﻿using Application.Interface.Repositories;
 using Application.Interface.UnitOfWork;
-using Domain.Entities;
 using Infrastructure.Data_Access;
 using Microsoft.AspNetCore.DataProtection.KeyManagement;
 
@@ -10,17 +9,15 @@ namespace Infrastructure.Repositories.UnitOfWork
     {
         private readonly ProjectDbContext _dbContext;
 
-        public ITemplateRepository ITemplateRepository { get; private set; }
+        // public ITemplateRepository ITemplateRepository { get; private set; }
         
 
         
         
 
-        public UnitOfWorkRepository(ProjectDbContext dbContext, ITemplateRepository templateRepository) {
+        public UnitOfWorkRepository(ProjectDbContext dbContext) {
 
-            _dbContext = dbContext;
-            ITemplateRepository= templateRepository;
-            
+            _dbContext = dbContext;            
         }
 
         //Get Region Id by Address.CityId 

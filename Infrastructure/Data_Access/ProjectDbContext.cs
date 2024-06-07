@@ -1,7 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Infrastructure.DataAccess.Configurations;
-using Domain.Entities;
 using Domain.Common;
+using Domain.Entities;
+using Microsoft.Extensions.Configuration;
+using Infrastructure.Data_Access.Configurations;
 
 namespace Infrastructure.Data_Access
 {
@@ -11,37 +12,13 @@ namespace Infrastructure.Data_Access
 
         //Table Country
         
-        public DbSet<Template> Template { get; set; }
+        public DbSet<User> User { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-
-            modelBuilder.HasDefaultSchema("MEDNEXT");
-
             //Add entity Configuration
-            
-            modelBuilder.ApplyConfiguration(new TemplateConfiguration());
-
-            ////KEYS
-
-            ////Country Keys
-            //modelBuilder.Entity<Country>().HasKey(k => k.countryId);
-
-            //modelBuilder.Entity<Country>().Property(k => k.countryId).ValueGeneratedOnAdd();
-
-            ////Region Keys
-            //modelBuilder.Entity<Region>().HasKey(k => k.REGION_ID);
-
-            //modelBuilder.Entity<Region>().Property(k => k.REGION_ID).ValueGeneratedOnAdd();
-
-
-            //modelBuilder.Entity<Region>().HasKey(k => k.COUNTRY_ID);
-            //modelBuilder.Entity<Region>().HasAlternateKey(k => k.COUNTRY_ID);
-
-            ////Data
-
-
+            modelBuilder.ApplyConfiguration(new UserConfiguration());
         }
 
         public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)

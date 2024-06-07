@@ -24,7 +24,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="DTOs\" />
     <Folder Include="Exceptions\" />
+    <Folder Include="Handlers\Commands\" />
+    <Folder Include="Handlers\Queries\" />
+    <Folder Include="Interface\Validators\" />
+    <Folder Include="Requests\Commands\" />
+    <Folder Include="Requests\Queries\" />
+    <Folder Include="Validators\" />
   </ItemGroup>
 
 </Project>

@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using Application.DTOs;
 
 
 namespace Application.Mapping
@@ -9,9 +8,7 @@ namespace Application.Mapping
         public MappingProfile()
         {
 
-            #region
-            CreateMap<Domain.Entities.Template, TemplateDto>().ReverseMap();
-            #endregion
+
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lcMnyymAjXdmhxB7QTzm2kAS5/HuseNCM2L/+vvp4utA5d/96s78GOcgzNYAJwFa71UTb19YpGPtc9EQdBsXfA==",
+  "dgSpecHash": "Get6+DLZE1Eoou/EZ9catmcQzcGLAzkQeyq2Oe07vIDKg+xGSYzjZcnjQ/2l6IUgvZhq2VzpZaVvFzhRF4aNAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Theodoulos\\Projects\\web-api-microservice\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Theodoulos\\Projects\\web-api\\web-api-microservice\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Theodoulos\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Theodoulos\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

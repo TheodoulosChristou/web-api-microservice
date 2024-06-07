@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hRER1/1kWCt+nrBL3mwMz9o09Z98fseSsoVFbbG5yh3asYi9QOhviQN845mnzs79yW47Y2CBpaYiGmGuU9zlFw==",
+  "dgSpecHash": "l33kmksBA0ZTTxK5BMvaB7cRRUtFNFqFmZeux1nE2gjFoWWdsEpQCd9QreCXN5LhDlIPwvxYkiTmKPqHGxIkQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Theodoulos\\Projects\\web-api-microservice\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Theodoulos\\Projects\\web-api\\web-api-microservice\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
