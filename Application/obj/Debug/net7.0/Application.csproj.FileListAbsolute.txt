@@ -1,0 +1,45 @@
+C:\Philippos_practise\NET core examples\CleanArchitectureExamples\Location\Location\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Philippos_practise\NET core examples\CleanArchitectureExamples\Location\Location\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Philippos_practise\NET core examples\CleanArchitectureExamples\Location\Location\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Philippos_practise\NET core examples\CleanArchitectureExamples\Location\Location\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Philippos_practise\NET core examples\CleanArchitectureExamples\Location\Location\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Philippos_practise\NET core examples\CleanArchitectureExamples\Location\Location\Application\bin\Debug\net7.0\Application.deps.json
+C:\Philippos_practise\NET core examples\CleanArchitectureExamples\Location\Location\Application\bin\Debug\net7.0\Application.dll
+C:\Philippos_practise\NET core examples\CleanArchitectureExamples\Location\Location\Application\bin\Debug\net7.0\Application.pdb
+C:\Philippos_practise\NET core examples\CleanArchitectureExamples\Location\Location\Application\bin\Debug\net7.0\Domain.dll
+C:\Philippos_practise\NET core examples\CleanArchitectureExamples\Location\Location\Application\bin\Debug\net7.0\Domain.pdb
+C:\Philippos_practise\NET core examples\CleanArchitectureExamples\Location\Location\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Philippos_practise\NET core examples\CleanArchitectureExamples\Location\Location\Application\obj\Debug\net7.0\Application.dll
+C:\Philippos_practise\NET core examples\CleanArchitectureExamples\Location\Location\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Philippos_practise\NET core examples\CleanArchitectureExamples\Location\Location\Application\obj\Debug\net7.0\Application.pdb
+C:\Philippos_practise\NET core examples\CleanArchitectureExamples\Location\Location\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Philippos_practise\CleanTemplateMicroservice\CleanTemplateMicroservice\Application\bin\Debug\net7.0\Application.deps.json
+C:\Philippos_practise\CleanTemplateMicroservice\CleanTemplateMicroservice\Application\bin\Debug\net7.0\Application.dll
+C:\Philippos_practise\CleanTemplateMicroservice\CleanTemplateMicroservice\Application\bin\Debug\net7.0\Application.pdb
+C:\Philippos_practise\CleanTemplateMicroservice\CleanTemplateMicroservice\Application\bin\Debug\net7.0\Domain.dll
+C:\Philippos_practise\CleanTemplateMicroservice\CleanTemplateMicroservice\Application\bin\Debug\net7.0\Domain.pdb
+C:\Philippos_practise\CleanTemplateMicroservice\CleanTemplateMicroservice\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Philippos_practise\CleanTemplateMicroservice\CleanTemplateMicroservice\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Philippos_practise\CleanTemplateMicroservice\CleanTemplateMicroservice\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Philippos_practise\CleanTemplateMicroservice\CleanTemplateMicroservice\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Philippos_practise\CleanTemplateMicroservice\CleanTemplateMicroservice\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Philippos_practise\CleanTemplateMicroservice\CleanTemplateMicroservice\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Philippos_practise\CleanTemplateMicroservice\CleanTemplateMicroservice\Application\obj\Debug\net7.0\Application.dll
+C:\Philippos_practise\CleanTemplateMicroservice\CleanTemplateMicroservice\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Philippos_practise\CleanTemplateMicroservice\CleanTemplateMicroservice\Application\obj\Debug\net7.0\Application.pdb
+C:\Philippos_practise\CleanTemplateMicroservice\CleanTemplateMicroservice\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\Theodoulos\Projects\web-api-microservice\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\Theodoulos\Projects\web-api-microservice\Application\bin\Debug\net7.0\Application.dll
+C:\Users\Theodoulos\Projects\web-api-microservice\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\Theodoulos\Projects\web-api-microservice\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\Theodoulos\Projects\web-api-microservice\Application\bin\Debug\net7.0\Domain.pdb
+C:\Users\Theodoulos\Projects\web-api-microservice\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\Theodoulos\Projects\web-api-microservice\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theodoulos\Projects\web-api-microservice\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\Theodoulos\Projects\web-api-microservice\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\Theodoulos\Projects\web-api-microservice\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Theodoulos\Projects\web-api-microservice\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\Theodoulos\Projects\web-api-microservice\Application\obj\Debug\net7.0\Application.dll
+C:\Users\Theodoulos\Projects\web-api-microservice\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\Theodoulos\Projects\web-api-microservice\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\Theodoulos\Projects\web-api-microservice\Application\obj\Debug\net7.0\ref\Application.dll
