@@ -19,6 +19,7 @@ namespace Application
 
             services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             services.AddScoped<IUnitOfWork, UnitOfWorkRepository>();
+            services.AddScoped<IUserRepository, UserRepository>();
 
             
 
