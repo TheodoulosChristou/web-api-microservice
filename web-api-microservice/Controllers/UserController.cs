@@ -27,10 +27,27 @@ public class UserController : ControllerBase
         return Ok(response);
     }
 
+    [HttpGet("GetUserById")]
+    public async Task<ActionResult<IQueryable<UserDto>>> GetUserById(int id)
+    {
+        var request = new GetUserByIdRequest { Id = id};
+        var response = await _mediator.Send(request);
+        return Ok(response);
+    }
+
     [HttpPost("CreateUser")]
     public async Task<ActionResult<IQueryable<UserDto>>> CreateUser([FromBody] UserDto CreateUser)
     {
         var request = new CreateUserCommand { CreateUser = CreateUser };
+        var response = await _mediator.Send(request);
+        return Ok(response);
+    }
+
+
+    [HttpPost("SearchUserByCriteria")]
+    public async Task<ActionResult<IQueryable<UserDto>>> SearchUserByCriteria([FromBody] SearchUserCriteriaDto? searchCriteria)
+    {
+        var request = new SearchUsersCommand { searchCriteria = searchCriteria };
         var response = await _mediator.Send(request);
         return Ok(response);
     }

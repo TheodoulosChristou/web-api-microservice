@@ -6,10 +6,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Requests.Commands
+namespace Application.Requests.Queries.User
 {
-    public class DeleteUserCommand: IRequest<BaseCommandResponse>
+    public class GetUserByIdRequest: IRequest<UserDto>
     {
-        public UserDto DeleteUser { get; set; }
+        public int Id { get; set; }
     }
 }

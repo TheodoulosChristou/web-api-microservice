@@ -1,5 +1,5 @@
 ﻿using Application;
-using Application.Requests.Commands;
+using Application.Requests.Commands.User;
 using Application.Validators.User;
 using AutoMapper;
 using Domain.Entities;
